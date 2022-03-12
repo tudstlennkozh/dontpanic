@@ -1,5 +1,7 @@
 
-# Dontpanic !
+# Don't panic !
+
+You've landed on the right place ...
  
 * This is an an Add-In for LibreOffice and OpenOffice. It only works in Calc (a new function is made available).
 
