@@ -24,8 +24,8 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Run a one-line script
-        run: echo Running PyTest on project ...
-		
+        run: echo Running PyTest on project
+
       - name: Install Python 3
         uses: actions/setup-python@v1
         with:
