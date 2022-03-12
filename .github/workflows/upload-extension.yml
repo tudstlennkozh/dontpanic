@@ -23,6 +23,11 @@ jobs:
         with:
           python-version: 3.8
       
+      - name: Building extension
+        run: |
+          cd src
+          python build.py
+      
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
