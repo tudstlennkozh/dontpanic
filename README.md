@@ -14,16 +14,19 @@ You've landed on the right place ...
 
 ## Installation
 
-Simply download the extension (`.oxt`) and install it under LibreOffice.
+Simply download the extension (`.oxt`) from [releases](https://github.com/tudstlennkozh/dontpanic/releases/latest) and install it under LibreOffice.
 
 ## Usage
 
 How to call it :
 
-The function to call is ANSWER (if your locale is english). Some other locales exist (german, french).
+Inside a cell or a formula (only with Calc), the function to call is `ANSWER` (if your locale is english). Some other locales exist (german, french).
 
 ## Release History
 
+* 0.2.5 - 0.2.6
+  * tests on GitHub actions
+  
 * 0.2.4
   * First public release
 
