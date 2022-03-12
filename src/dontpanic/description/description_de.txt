@@ -1,0 +1,7 @@
+﻿Don't Panic !
+
+Dieses Add-In fügt eine fehlende Funktion seit OpenOffice 3.4
+(siehe https://wiki.openoffice.org/wiki/Easter_Eggs)
+Es erlaubt, die Antwort zu erhalten "Das Leben, das Universum und der ganze Rest"
+
+die fonction zu rufen ist ANTWORT.

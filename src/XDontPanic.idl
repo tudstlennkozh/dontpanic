@@ -1,0 +1,9 @@
+
+module org { module tudstlennkozh { module DontPanic {
+
+    interface XDontPanic
+    {
+      long h2g2( [in] string a);
+    };
+
+}; }; };

@@ -1,0 +1,7 @@
+﻿Don't Panic !
+
+Ce Add-In ajoute une fonction qui manque à OpenOffice depuis la version 3.4
+(voir https://wiki.openoffice.org/wiki/Easter_Eggs)
+Il permet d'obtenir la réponse ultime à la question sur la vie, l'univers et le reste.
+
+La fonction à appeler est REPONSE

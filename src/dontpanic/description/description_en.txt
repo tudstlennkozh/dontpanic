@@ -1,0 +1,7 @@
+﻿Don't Panic !
+
+This Add-In adds a missing function since OpenOffice 3.4
+(see https://wiki.openoffice.org/wiki/Easter_Eggs)
+It allows to get the Answer to the Ultimate Question of Life, the Universe, and Everything.
+
+the fonction to call is ANSWER.

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<description xmlns="http://openoffice.org/extensions/description/2006" 
+xmlns:d="http://openoffice.org/extensions/description/2006"
+xmlns:l="http://libreoffice.org/extensions/description/2011"
+xmlns:xlink="http://www.w3.org/1999/xlink"> 
+
+	<dependencies>
+		<OpenOffice.org-minimal-version value="3.4" d:name="OpenOffice.org 3.4"/>
+		<l:LibreOffice-minimal-version value="7.0" d:name="LibreOffice 7.0" />
+	</dependencies>
+
+	<identifier value="org.tudstlennkozh.dontpanic" />
+	<version value="%PLUGIN_VERSION%" />
+	<display-name>
+		<name lang="en">Don't Panic Addin for Calc. Small tribute to Douglas Adams.</name>
+		<name lang="fr">Don't Panic Addin pour Calc. Hommage &#224; Douglas Adams.</name>
+		<name lang="de">Don't Panic Addin f&#252;r Calc. Tribut an Douglas Adams.</name>
+	</display-name>
+
+	<extension-description>
+		<src xlink:href="description/description_en.txt" lang="en" />
+		<src xlink:href="description/description_fr.txt" lang="fr" />
+		<src xlink:href="description/description_de.txt" lang="de" />
+	</extension-description>
+
+	<publisher>
+		<name xlink:href="https://github.com/tudstlennkozh">Tudstlennkozh</name>
+	</publisher>
+
+	<icon>
+		<default xlink:href="icons/dontpanic42x42.png" />
+		<high-contrast xlink:href="icons/dontpanic.png" />
+  	</icon>
+
+	<platform value="all" />
+
+</description>
