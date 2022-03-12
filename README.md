@@ -1,4 +1,3 @@
-![](src/dontpanic/icons/dontpanic.png)
 
 # Dontpanic !
  
@@ -14,4 +13,6 @@ How to call it :
 
 The function to call is ANSWER (if your locale is english). Some other locales exist (german, french).
 
-&#35;H2G2 &#35;Douglas_Adams
+Small tribute to &#35;H2G2 &#35;Douglas_Adams
+
+![](src/dontpanic/icons/dontpanic.png)
