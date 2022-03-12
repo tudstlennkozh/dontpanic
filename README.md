@@ -1,5 +1,6 @@
 
 # Don't panic !
+[![Run Tests](https://github.com/tudstlennkozh/dontpanic/actions/workflows/run-tests.yml/badge.svg)](https://github.com/tudstlennkozh/dontpanic/actions/workflows/run-tests.yml)
 
 You've landed on the right place ...
  
