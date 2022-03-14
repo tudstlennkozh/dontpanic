@@ -56,7 +56,7 @@ Unless required by applicable law or agreed to in writing, software distributed 
 
 ---
 
-This is a tiny tribute to &#35;H2G2 &#35;Douglas_Adams
+This is a tiny tribute to &#35;H2G2 &#35;Douglas_Adams and ... &#35;LibreOffice of course !
 
 ![](src/dontpanic/icons/dontpanic.png)
 
