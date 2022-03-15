@@ -24,6 +24,9 @@ Inside a cell or a formula (only with Calc), the function to call is `ANSWER` (i
 
 ## Release History
 
+* 0.2.8
+  * small changes in xml files
+
 * 0.2.7
   * first release via GH actions
 
