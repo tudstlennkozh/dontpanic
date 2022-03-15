@@ -20,24 +20,11 @@ Simply download the extension (`.oxt`) from [releases](https://github.com/tudstl
 
 How to call it :
 
-Inside a cell or a formula (only with Calc), the function to call is `ANSWER` (if your locale is english). Some other locales exist (german, french).
+Inside a cell or a formula (only with Calc), the function to call is `ANSWER` (if your locale is english). Some other locales exist (german, french). You are welcome to [contribute](CONTRIBUTING.md) your own language.
 
 ## Release History
 
-* 0.2.9
-  * current working release
-
-* 0.2.8
-  * small changes in xml files
-
-* 0.2.7
-  * first release via GH actions
-
-* 0.2.5 - 0.2.6
-  * tests on GitHub actions
-  
-* 0.2.4
-  * First public release
+See [ChangeLog](CHANGELOG.md)
 
 ## Contributing
 
