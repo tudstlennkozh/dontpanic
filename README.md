@@ -24,11 +24,12 @@ Inside a cell or a formula (only with Calc), the function to call is `ANSWER` (i
 
 ## Release History
 
-See [ChangeLog](CHANGELOG.md)
+See [ChangeLog](CHANGELOG.md).
 
 ## Contributing
 
-See [Contributing](CONTRIBUTING.md)
+Contributions to this project are very welcome. And contributions can come in many different forms, even if you do not have coding skills. Still, **this project really needs new translation** !
+Please see [Contributing](CONTRIBUTING.md) in order to contribute.
 
 ## License
 
