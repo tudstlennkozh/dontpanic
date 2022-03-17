@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 ### Added
 * Changelog, Contributing (especially for translations)
+* no tests in GH Actions if any .md is modified
 
 ## [0.2.8]
 ### Changed
