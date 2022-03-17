@@ -20,7 +20,8 @@ Simply download the extension (`.oxt`) from [releases](https://github.com/tudstl
 
 How to call it :
 
-Inside a cell or a formula (only with Calc), the function to call is `ANSWER` (if your locale is english). Some other locales exist (german, french). You are welcome to [contribute](CONTRIBUTING.md) your own language.
+Inside a cell or a formula (only with Calc), the function to call is `ANSWER` (if your locale is english). 
+Some other locales exist (german, french). **You are welcome to [contribute](CONTRIBUTING.md) your own language.**
 
 ## Release History
 
