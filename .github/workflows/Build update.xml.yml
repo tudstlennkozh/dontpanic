@@ -15,12 +15,7 @@ jobs:
     name: Building update.xml 
     runs-on: ubuntu-latest
     steps:
-      - if: github.event_name != 'pull_request'
-        name: Checkout code
-        uses: actions/checkout@v2
-
-      - if: github.event_name == 'pull_request'
-        name: Checkout code (PR)
+      - name: Checkout code
         uses: actions/checkout@v2
         with:
           repository: ${{ github.event.pull_request.head.repo.full_name }}
