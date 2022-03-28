@@ -15,8 +15,16 @@ jobs:
     name: Building update.xml 
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - if: github.event_name != 'pull_request'
+        name: Checkout code
         uses: actions/checkout@v2
+
+      - if: github.event_name == 'pull_request'
+        name: Checkout code (PR)
+        uses: actions/checkout@v2
+        with:
+          repository: ${{ github.event.pull_request.head.repo.full_name }}
+          ref: ${{ github.event.pull_request.head.ref }}
 
       - name: Install Python 3
         uses: actions/setup-python@v1
