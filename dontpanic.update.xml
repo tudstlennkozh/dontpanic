@@ -3,10 +3,10 @@
 
         <identifier value="org.tudstlennkozh.dontpanic"/>
 
-        <version value="0.3.6" />
+        <version value="0.3.7" />
 
         <update-download>
-            <src xlink:href="https://github.com/tudstlennkozh/dontpanic/releases/download/v0.3.6/dontpanic.oxt" />
+            <src xlink:href="https://github.com/tudstlennkozh/dontpanic/releases/download/v0.3.7/dontpanic.oxt" />
         </update-download>
 
     </description>
