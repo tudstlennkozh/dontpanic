@@ -25,6 +25,7 @@ jobs:
       
       - name: Building update.xml
         run: |
+          cd src
           python build_update.xml.py
       
       - name: Pushing update.xml to git
