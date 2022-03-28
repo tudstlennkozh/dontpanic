@@ -24,10 +24,15 @@ def is_libreoffice_sdk_available() -> bool:
     return shutil.which("idlc") is not None
 
 
+plugin_version = v.__version__
+LO = "LibreOffice"
+XD = "XDontPanic"
+EXTENSION_NAME = 'dontpanic'
+EXTENSION_SOURCE_DIRS = 'dontpanic'
+EXCLUDE_DIR = "pycache"
+
+
 if __name__ == "__main__":
-    plugin_version = v.__version__
-    LO = "LibreOffice"
-    XD = "XDontPanic"
 
     print(f'{LO} addin version: {plugin_version}')
     if is_libreoffice_available():
@@ -52,9 +57,6 @@ if __name__ == "__main__":
     else:
         print('RDB file from version control will be used')
 
-    EXTENSION_NAME = 'dontpanic'
-    EXTENSION_SOURCE_DIRS = 'dontpanic'
-    EXCLUDE_DIR = "pycache"
 
     outdir = Path("../out/")
     create_missing_dir(outdir)

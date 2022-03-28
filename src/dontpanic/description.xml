@@ -34,4 +34,8 @@ xmlns:xlink="http://www.w3.org/1999/xlink">
 
 	<platform value="all" />
 
+	<update-information>
+		<src xlink:href="https://github.com/tudstlennkozh/dontpanic/blob/master/dontpanic.update.xml" />
+	</update-information>
+
 </description>
