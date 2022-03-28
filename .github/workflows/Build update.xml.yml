@@ -12,7 +12,7 @@ name: Build update.xml
 
 jobs:
   build:
-    name: Upload Release Asset
+    name: Building update.xml 
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -25,6 +25,7 @@ jobs:
       
       - name: Building update.xml
         run: |
+          cd src
           python build_update.xml.py
       
       - name: Pushing update.xml to git
