@@ -27,6 +27,7 @@ jobs:
         run: |
           cd src
           python build_update.xml.py
+          cd ..
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add dontpanic.update.xml
